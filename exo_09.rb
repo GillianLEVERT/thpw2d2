@@ -8,4 +8,4 @@ for year in n..2022
 end 
 
 puts "tu as donc #{2022-n} ans"
-    
+  
