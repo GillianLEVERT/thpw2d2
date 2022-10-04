@@ -12,7 +12,7 @@ if n <= 25
                print " "
             end
         y -= 1
-        k.times {print "#"}
+        k.times {print " #"}
         puts 
     end
 
