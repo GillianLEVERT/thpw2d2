@@ -8,12 +8,11 @@ end
    
 if n <= 25
         1.upto(n) do |k|
-            1.upto(y) do |g|
+            1.upto(y) do 
                print " "
             end
         y -= 1
         k.times {print "#"}
         puts 
     end
-
 end 
